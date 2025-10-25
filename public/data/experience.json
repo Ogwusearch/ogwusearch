@@ -1,0 +1,57 @@
+[
+  {
+    "company": "OpenAI Developer Community",
+    "role": "Software Engineer",
+    "period": "2024 — Present",
+    "description": "Designing intelligent developer tools and automation systems that leverage modern AI APIs to streamline backend logic and content workflows. Collaborating with engineers globally to build open-source SDKs, developer templates, and examples integrating OpenAI’s GPT models into web and CLI environments.",
+    "tech": ["TypeScript", "Next.js", "Supabase", "OpenAI API", "Vercel Edge"],
+    "links": {
+      "company": "https://community.openai.com/",
+      "reference": "https://platform.openai.com/docs"
+    }
+  },
+  {
+    "company": "n8n Automation",
+    "role": "Workflow Engineer",
+    "period": "2023 — 2024",
+    "description": "Developed modular automation pipelines to integrate APIs, databases, and event triggers for real-time business analytics. Architected reusable workflow templates for marketing automation, webhook handling, and API-to-database synchronization, improving developer velocity across multiple teams.",
+    "tech": ["n8n", "PostgreSQL", "REST APIs", "Docker", "Redis"],
+    "links": {
+      "company": "https://n8n.io",
+      "reference": "https://docs.n8n.io/"
+    }
+  },
+  {
+    "company": "Freelance",
+    "role": "Full Stack Developer",
+    "period": "2021 — 2023",
+    "description": "Delivered scalable web applications and dashboards for startups and small enterprises, focusing on rapid prototyping, maintainability, and responsive design. Projects included analytics dashboards, AI-powered landing pages, and custom content management systems.",
+    "tech": ["React", "Node.js", "Vite", "Tailwind CSS", "Express"],
+    "links": {
+      "portfolio": "https://ogwusearch.dev/projects",
+      "reference": "https://react.dev/"
+    }
+  },
+  {
+    "company": "GitHub Open Source",
+    "role": "Contributor",
+    "period": "2022 — Present",
+    "description": "Actively contributing to open-source libraries and automation workflows on GitHub, including small UI components, AI prompt tooling, and developer templates that improve code readability and runtime performance.",
+    "tech": ["Git", "CI/CD", "TypeScript", "Open Source"],
+    "links": {
+      "company": "https://github.com/",
+      "reference": "https://github.com/explore"
+    }
+  },
+  {
+    "company": "Developer Community Projects",
+    "role": "Technical Writer & Maintainer",
+    "period": "2022 — Present",
+    "description": "Authored documentation and engineering blogs focusing on API design, data modeling, and scalable architectures. Helped bridge the gap between backend systems and frontend design through clear, structured technical writing and developer education.",
+    "tech": ["Markdown", "MDX", "Documentation", "REST API", "System Design"],
+    "links": {
+      "articles": "https://ogwusearch.dev/blog",
+      "reference": "https://dev.to/"
+    }
+  }
+]

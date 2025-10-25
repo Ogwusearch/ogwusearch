@@ -1,0 +1,32 @@
+{
+  "email": {
+    "address": "contact@ogwusearch.dev",
+    "label": "Send an Email",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg",
+    "description": "For collaborations, freelance inquiries, or tech discussions."
+  },
+  "calendly": {
+    "url": "https://calendly.com/ogwusearch/meeting",
+    "label": "Schedule a Call",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2089/2089181.png",
+    "description": "Book a 15–30 minute session to discuss ideas, projects, or mentorship."
+  },
+  "github": {
+    "url": "https://github.com/ogwusearch",
+    "label": "View My Code",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "description": "Browse open-source tools, workflow scripts, and code experiments."
+  },
+  "linkedin": {
+    "url": "https://linkedin.com/in/ogwusearch",
+    "label": "Connect on LinkedIn",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
+    "description": "Network with me professionally and follow my software engineering updates."
+  },
+  "location": {
+    "city": "Lagos, Nigeria",
+    "timezone": "UTC+1",
+    "icon": "https://cdn-icons-png.flaticon.com/512/535/535239.png",
+    "description": "Available remotely for global collaboration and freelance projects."
+  }
+}

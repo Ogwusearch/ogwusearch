@@ -1,0 +1,73 @@
+[
+  {
+    "title": "AI Workflow Dashboard",
+    "description": "An intelligent orchestration platform that combines OpenAI, n8n, and Supabase to automate end-to-end business processes. Designed for engineers who need modular pipelines for content generation, analytics syncing, and report automation.",
+    "image": "/images/projects/ai-dashboard.jpg",
+    "tech": ["TypeScript", "React", "Supabase", "n8n", "OpenAI API"],
+    "highlights": [
+      "Built reusable workflow templates using n8n for content and data automation.",
+      "Integrated OpenAI’s GPT endpoints for decision-making and content processing.",
+      "Used Supabase as a real-time backend for logs, users, and workflow states."
+    ],
+    "link": "https://ai-dashboard.vercel.app",
+    "repo": "https://github.com/ogwusearch/ai-dashboard",
+    "references": {
+      "OpenAI Docs": "https://platform.openai.com/docs",
+      "n8n Docs": "https://docs.n8n.io/",
+      "Supabase Docs": "https://supabase.com/docs"
+    }
+  },
+  {
+    "title": "Dev Portfolio Generator",
+    "description": "A developer-friendly CLI that scaffolds modern, fast, and themeable portfolios using Vite, Tailwind CSS, and shadcn UI. It helps engineers create professional portfolio sites in seconds with JSON-driven customization.",
+    "image": "/images/projects/portfolio-gen.jpg",
+    "tech": ["Node.js", "CLI", "Tailwind CSS", "shadcn/ui", "JSON"],
+    "highlights": [
+      "Generates complete React + Vite projects with dynamic JSON config files.",
+      "Supports light/dark theme presets and shadcn component variants.",
+      "Automates deployment to Vercel with built-in configuration support."
+    ],
+    "link": "https://npmjs.com/package/portfolio-gen",
+    "repo": "https://github.com/ogwusearch/portfolio-gen",
+    "references": {
+      "Vite Docs": "https://vitejs.dev/",
+      "Tailwind CSS Docs": "https://tailwindcss.com/docs",
+      "shadcn Docs": "https://ui.shadcn.com/"
+    }
+  },
+  {
+    "title": "Vision API Playground",
+    "description": "An experimental web app for testing and comparing vision-based AI models, including OpenAI’s image analysis APIs and custom FastAPI backends. Users can upload, tag, and analyze images directly from the browser.",
+    "image": "/images/projects/vision-playground.jpg",
+    "tech": ["React", "OpenAI API", "Python", "FastAPI", "Vercel"],
+    "highlights": [
+      "Implemented image-to-text and visual tagging via OpenAI Vision API.",
+      "Deployed a Python FastAPI microservice for preprocessing and logging results.",
+      "Created a responsive UI for visualizing inference outputs and performance metrics."
+    ],
+    "link": "https://vision-playground.vercel.app",
+    "repo": "https://github.com/ogwusearch/vision-playground",
+    "references": {
+      "OpenAI Vision": "https://platform.openai.com/docs/guides/vision",
+      "FastAPI Docs": "https://fastapi.tiangolo.com/",
+      "Vercel": "https://vercel.com/"
+    }
+  },
+  {
+    "title": "Realtime Chat with Supabase & OpenAI",
+    "description": "A real-time AI chat app integrating Supabase Realtime with GPT message context persistence. Users can chat, edit, and resume sessions seamlessly with live token streaming.",
+    "image": "/images/projects/realtime-chat.jpg",
+    "tech": ["Next.js", "Supabase", "OpenAI API", "TypeScript"],
+    "highlights": [
+      "Implemented live token-based streaming from OpenAI completions endpoint.",
+      "Integrated Supabase Auth + Database for persistent chat history.",
+      "Optimized serverless deployment for minimal cold start and latency."
+    ],
+    "link": "https://realtime-chat.vercel.app",
+    "repo": "https://github.com/ogwusearch/realtime-chat",
+    "references": {
+      "Supabase Realtime": "https://supabase.com/docs/guides/realtime",
+      "Next.js Docs": "https://nextjs.org/docs"
+    }
+  }
+]

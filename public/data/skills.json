@@ -1,0 +1,74 @@
+[
+  {
+    "name": "TypeScript",
+    "level": 90,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "description": "Type-safe JavaScript for building scalable, maintainable applications. Used for both frontend and backend systems across projects.",
+    "useCases": [
+      "Designing strongly typed automation SDKs for n8n and Supabase APIs",
+      "Building React + Vite frontends with strict type safety",
+      "Defining API contracts between microservices"
+    ],
+    "reference": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "name": "Node.js",
+    "level": 88,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "description": "Event-driven JavaScript runtime for server-side applications and developer tooling.",
+    "useCases": [
+      "Building CLI tools for automation and project scaffolding",
+      "Integrating OpenAI and Supabase APIs for backend automation",
+      "Developing workflow engines and serverless endpoints"
+    ],
+    "reference": "https://nodejs.org/en/docs"
+  },
+  {
+    "name": "React",
+    "level": 92,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "description": "Frontend library for building fast, interactive UIs with modular component design.",
+    "useCases": [
+      "Creating dashboards for AI workflow orchestration",
+      "Building drag-and-drop editors and real-time data visualizations",
+      "Integrating authentication and Supabase state into reactive UIs"
+    ],
+    "reference": "https://react.dev/learn"
+  },
+  {
+    "name": "TailwindCSS",
+    "level": 95,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    "description": "Utility-first CSS framework for rapid UI prototyping and production-grade design systems.",
+    "useCases": [
+      "Designing responsive, accessible components for dashboards",
+      "Creating consistent dark/light themes with shadcn UI",
+      "Developing reusable style systems across web apps"
+    ],
+    "reference": "https://tailwindcss.com/docs"
+  },
+  {
+    "name": "Supabase",
+    "level": 80,
+    "icon": "https://supabase.com/favicon/favicon.ico",
+    "description": "Open-source Firebase alternative providing database, auth, and storage via Postgres.",
+    "useCases": [
+      "Managing user authentication and access policies",
+      "Syncing workflow logs with real-time database updates",
+      "Building analytics dashboards powered by live SQL data"
+    ],
+    "reference": "https://supabase.com/docs"
+  },
+  {
+    "name": "Python",
+    "level": 85,
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "description": "High-level programming language for AI, data science, and backend automation.",
+    "useCases": [
+      "Serving AI APIs using FastAPI and OpenAI integrations",
+      "Processing embeddings and structured data for dashboards",
+      "Building automation microservices that complement Node.js layers"
+    ],
+    "reference": "https://docs.python.org/3/"
+  }
+]

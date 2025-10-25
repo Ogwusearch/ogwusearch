@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =====================================
+   ⚡ Ogwusearch Global Styles
+   Modern Developer Portfolio Theme
+   ===================================== */
+
+:root {
+  --color-bg: #000;
+  --color-fg: #fff;
+  --color-accent: #06b6d4;
+  --color-accent-pink: #ec4899;
+  --color-muted: #a1a1aa;
+  --color-border: #27272a;
+}
+
+.light {
+  --color-bg: #f9fafb;
+  --color-fg: #111;
+  --color-accent: #0891b2;
+  --color-accent-pink: #db2777;
+  --color-muted: #6b7280;
+  --color-border: #e5e7eb;
+}
+
+/* =====================================
+   🌎 Base
+   ===================================== */
+
+html,
+body {
+  @apply scroll-smooth antialiased transition-colors duration-300;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* =====================================
+   🎨 Scrollbar
+   ===================================== */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--color-accent), var(--color-accent-pink));
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* =====================================
+   ✨ Animations
+   ===================================== */
+
+.fade-in {
+  animation: fadeIn 0.6s ease forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 18px var(--color-accent);
+  transition: box-shadow 0.3s ease;
+}
+
+/* =====================================
+   💫 Layout Helpers
+   ===================================== */
+
+.section-container {
+  @apply min-h-screen flex flex-col justify-center items-center text-center px-6 py-12;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, var(--color-accent), var(--color-accent-pink));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glass {
+  background-color: rgba(20, 20, 20, 0.6);
+  backdrop-filter: blur(16px);
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+}
+
+.light .glass {
+  background-color: rgba(255, 255, 255, 0.6);
+  border-color: var(--color-border);
+}
+
+.neon-border {
+  border: 1px solid transparent;
+  background:
+    linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
+    linear-gradient(90deg, var(--color-accent), var(--color-accent-pink)) border-box;
+}
+
+/* =====================================
+   🧠 Typography
+   ===================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-semibold tracking-tight;
+}
+
+p {
+  @apply text-neutral-400 leading-relaxed;
+}
+
+.light p {
+  @apply text-neutral-600;
+}
+
+/* =====================================
+   🌙 Transitions
+   ===================================== */
+
+* {
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+/* =====================================
+   🌈 Link Hover Accent
+   ===================================== */
+
+a {
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-accent);
+}

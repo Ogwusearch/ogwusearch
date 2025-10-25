@@ -1,0 +1,4 @@
+[
+  { "label": "Home", "path": "/", "icon": "Home" },
+  { "label": "Projects", "path": "/projects", "icon": "Layers" }
+]

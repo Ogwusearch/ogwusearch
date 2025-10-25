@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Building a Developer Portfolio with Vite, Tailwind & shadcn",
+    "date": "October 2025",
+    "summary": "A guide to setting up a professional, fast, and beautiful portfolio using modern tools.",
+    "image": "/images/projects/blog-portfolio.jpg",
+    "tags": ["React", "Vite", "Tailwind", "shadcn"],
+    "link": "https://ogwusearch.dev/blog/portfolio-setup"
+  },
+  {
+    "title": "JSON-Driven Web Apps for Agile Developers",
+    "date": "September 2025",
+    "summary": "Why storing structured site data in JSON files makes sense for small teams and personal sites.",
+    "image": "/images/projects/blog-json.jpg",
+    "tags": ["JSON", "Vite", "Data Modeling"],
+    "link": "https://ogwusearch.dev/blog/json-driven-apps"
+  },
+  {
+    "title": "Futuristic UI Design Patterns in 2025",
+    "date": "August 2025",
+    "summary": "An overview of emerging aesthetic principles driving the next generation of developer portfolios.",
+    "image": "/images/projects/blog-future.jpg",
+    "tags": ["Design", "UI", "Trends"],
+    "link": "https://ogwusearch.dev/blog/futuristic-ui"
+  },
+  {
+    "title": "AI-Assisted Code Workflows with n8n and Supabase",
+    "date": "July 2025",
+    "summary": "Exploring automation pipelines that allow developers to integrate AI and data-driven automation into daily workflows.",
+    "image": "/images/projects/blog-ai-n8n.jpg",
+    "tags": ["AI", "Automation", "Supabase", "n8n"],
+    "link": "https://ogwusearch.dev/blog/ai-automation-pipelines"
+  },
+  {
+    "title": "Designing Scalable Auth Systems Using JSON and Local APIs",
+    "date": "June 2025",
+    "summary": "Breaking down the fundamentals of lightweight authentication with JSON and local-first storage patterns.",
+    "image": "/images/projects/blog-auth.jpg",
+    "tags": ["Authentication", "JSON", "APIs"],
+    "link": "https://ogwusearch.dev/blog/json-auth-systems"
+  },
+  {
+    "title": "Dark Mode is Not Enough — The Rise of Adaptive Theming",
+    "date": "May 2025",
+    "summary": "Why theme systems in modern UIs must respond to user context, energy mode, and time of day.",
+    "image": "/images/projects/blog-theme.jpg",
+    "tags": ["UI/UX", "Design Systems", "Tailwind"],
+    "link": "https://ogwusearch.dev/blog/adaptive-theming"
+  },
+  {
+    "title": "Serverless Functions for Indie Developers",
+    "date": "April 2025",
+    "summary": "A step-by-step approach to deploying event-driven serverless backends with zero DevOps complexity.",
+    "image": "/images/projects/blog-serverless.jpg",
+    "tags": ["Serverless", "Cloud", "Vercel"],
+    "link": "https://ogwusearch.dev/blog/serverless-functions"
+  },
+  {
+    "title": "Data Visualization with Recharts + Tailwind",
+    "date": "March 2025",
+    "summary": "How to integrate lightweight charting into your dashboards with minimal boilerplate using Recharts.",
+    "image": "/images/projects/blog-recharts.jpg",
+    "tags": ["Data Visualization", "React", "Tailwind"],
+    "link": "https://ogwusearch.dev/blog/recharts-tailwind"
+  },
+  {
+    "title": "AI-Enhanced Debugging for Frontend Engineers",
+    "date": "February 2025",
+    "summary": "Leveraging local AI agents to analyze logs, detect bottlenecks, and suggest code fixes directly in your dev environment.",
+    "image": "/images/projects/blog-ai-debug.jpg",
+    "tags": ["AI", "Frontend", "DevTools"],
+    "link": "https://ogwusearch.dev/blog/ai-debugging"
+  }
+]

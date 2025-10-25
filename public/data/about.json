@@ -1,0 +1,12 @@
+{
+  "skills": [
+    { "name": "TypeScript", "level": "Advanced" },
+    { "name": "React", "level": "Advanced" },
+    { "name": "Next.js", "level": "Intermediate" },
+    { "name": "Supabase", "level": "Intermediate" },
+    { "name": "n8n", "level": "Intermediate" },
+    { "name": "Tailwind CSS", "level": "Advanced" },
+    { "name": "Framer Motion", "level": "Intermediate" },
+    { "name": "AI SDKs", "level": "Beginner" }
+  ]
+}

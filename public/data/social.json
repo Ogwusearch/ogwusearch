@@ -1,0 +1,44 @@
+[
+  {
+    "platform": "GitHub",
+    "username": "ogwusearch",
+    "url": "https://github.com/ogwusearch",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "description": "Explore open-source projects, AI workflow templates, and portfolio tools."
+  },
+  {
+    "platform": "LinkedIn",
+    "username": "ogwusearch",
+    "url": "https://www.linkedin.com/in/ogwusearch",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
+    "description": "Connect professionally for collaborations in AI, automation, and software engineering."
+  },
+  {
+    "platform": "X (Twitter)",
+    "username": "@ogwusearch",
+    "url": "https://x.com/ogwusearch",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg",
+    "description": "Sharing engineering insights, new builds, and thoughts on the future of automation."
+  },
+  {
+    "platform": "YouTube",
+    "username": "Ogwusearch Dev Studio",
+    "url": "https://www.youtube.com/@ogwusearch",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg",
+    "description": "Tutorials and showcases on building AI-integrated developer tools and dashboards."
+  },
+  {
+    "platform": "Dev.to",
+    "username": "ogwusearch",
+    "url": "https://dev.to/ogwusearch",
+    "icon": "https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg",
+    "description": "Writing about modern TypeScript stacks, JSON-driven apps, and open engineering principles."
+  },
+  {
+    "platform": "Portfolio",
+    "username": "ogwusearch.dev",
+    "url": "https://ogwusearch.dev",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "description": "Main hub — portfolio, featured projects, blogs, and AI tooling demos."
+  }
+]

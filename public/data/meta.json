@@ -1,0 +1,31 @@
+{
+  "name": "Ogwusearch",
+  "title": "Software Engineer | Automation & AI Systems Developer",
+  "tagline": "Building scalable systems and intelligent developer tools for the modern web.",
+  "description": "Ogwusearch is a software engineer passionate about automation, AI-driven development, and full-stack engineering. He builds fast, modular, and future-ready applications using TypeScript, Supabase, and n8n.",
+  "keywords": [
+    "Software Engineer",
+    "TypeScript Developer",
+    "Supabase",
+    "n8n",
+    "React",
+    "AI Tools",
+    "Automation",
+    "Portfolio",
+    "Vite",
+    "TailwindCSS"
+  ],
+  "location": "Lagos, Nigeria",
+  "availability": "Open for remote and freelance work",
+  "website": "https://ogwusearch.dev",
+  "email": "contact@ogwusearch.dev",
+  "github": "https://github.com/ogwusearch",
+  "linkedin": "https://linkedin.com/in/ogwusearch",
+  "twitter": "https://x.com/ogwusearch",
+  "theme": {
+    "primary": "#06b6d4",
+    "background": "#0a0a0a",
+    "accent": "#f472b6"
+  },
+  "ai_statement": "Focused on leveraging AI-assisted workflows and developer automation to accelerate productivity and innovation in modern software engineering."
+}
